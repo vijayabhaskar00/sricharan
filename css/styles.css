@@ -51,7 +51,7 @@ html {
 }
 
 body, p {
-	color: #37373c; 
+	color: #ffffff; 
 	font: 400 0.875rem/1.5rem "Open Sans", sans-serif;
 }
 
@@ -100,7 +100,7 @@ h3 {
 
 h4 {
 	margin-bottom: 0.5rem;
-	color: #3b485a;
+	color: #ff9b5d;
 	font: 700 1.375rem/1.75rem "Montserrat", sans-serif;
 }
 
@@ -163,7 +163,7 @@ a:hover {
 	border-radius: 2rem;
 	background-color: #000000;
 	color: #fff;
-	font: 700 1.5rem/0 "Montserrat", sans-serif;
+	font: 0 1.5rem/0 "Montserrat", sans-serif;
 	transition: all 0.2s;
 }
 
@@ -797,11 +797,11 @@ input[type='checkbox'] {
 }
 
 .basic-1 .area-1 {
-	background-color: #2f3b4d;
+	background-color: #0d1218;
 }
 
 .basic-1 .area-2 {
-	background-color: #3b485a;
+	background-color: #0a0d10;
 }
 
 .basic-1 .area-1 .text-container {
@@ -1130,7 +1130,7 @@ input[type='checkbox'] {
 .cards-1 {
 	padding-top: 7rem;
 	padding-bottom: 3.125rem;
-	background-color: #f8f9fc;
+	background-color: #0f0f0f;
 }
 
 .cards-1 h2, 
