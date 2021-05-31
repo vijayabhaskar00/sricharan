@@ -1574,7 +1574,7 @@ input[type='checkbox'] {
 /**********************/
 .footer {
 	padding-top: 4rem;
-	background-color: #2f3b4d;
+	background-color: #000000;
 }
 
 .footer .footer-col {
@@ -1631,7 +1631,7 @@ input[type='checkbox'] {
 
 .footer .copyright {
 	padding-bottom: 0.5rem;
-	background-color: #2f3b4d;
+	background-color: #000000;
 	text-align: center;
 }
 
